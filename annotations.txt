@@ -1,0 +1,1 @@
+status/count of loaded resources (notes, browser pages)
