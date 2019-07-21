@@ -1,1 +1,3 @@
 status/count of loaded resources (notes, browser pages)
+
+merge with Aragon UI (F 9)
