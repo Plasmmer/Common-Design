@@ -1,4 +1,4 @@
-# <img src="Logotype.png" title="Common Design" alt="Common Design"/>
+# <img src="https://ipfs.io/ipfs/QmNkZ7Lw71uXGGuseeonjLBGoWrRMt16Srsmp3k3xzFVMk" title="Common Design" alt="Common Design"/>
 
 ![Draft](https://img.shields.io/badge/Draft-In%20progress-yellow.svg) ![Not implemented](https://img.shields.io/badge/Status-Not%20implemented-red.svg)
 
@@ -14,5 +14,7 @@ This is a open-source and accessible design spec, so you're welcome to open a is
 Please follow our <a href="http://www.contributor-covenant.org/" target="_blank">Code of Conduct</a> before interacting or contributing.
 
 ## Todo
+
+- Window hotspot button, as easy replacement for window buttons
 
 ## Related links
