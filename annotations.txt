@@ -1,3 +1,18 @@
+Common Design ghtgs:
+fluent-design 
+human-design https://vrimar.github.io/construct-ui/#/components/tree
+material-design https://arthurclemens.github.io/polythene-demos/mithril/#/ (merge layout and others from Bootstrap, also merge material elevation from FMWK with daemonite) https://github.com/ArthurClemens/polythene/blob/master/docs/online-examples-mithril.md
+
 status/count of loaded resources (notes, browser pages)
 
 merge with Aragon UI (F 9)
+
+https://codemyui.com/tag/fluent-design/
+https://www.reddit.com/r/web_design/comments/7tr0ov/is_there_a_css_framework_for_microsoft_fluent/
+https://medium.com/microsoft-design/diy-a-web-version-the-fluent-design-systems-acrylic-material-fe2eac2a40bb
+https://mdbootstrap.com/freebies/jquery/fluent-kit/
+https://www.cssscript.com/tag/fluent-design/
+
+- Card lift transition animation, inspired by Fluent
+- Acrylic effect, inspired by Fluent
+- 
